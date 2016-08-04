@@ -3,7 +3,7 @@ By PacktPublishing
 
 This is the code repository for [Modern JavaScript Applications](https://www.packtpub.com/web-development/modern-javascript-applications?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785881442), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
 
-##What you need for this book
+##What you need
 You can use any operating system that supports Node.js and MongoDB. You will
 need a browser, but I would recommended you to use the latest version of Chrome
 as it's way ahead with supporting the new technologies that are covered in this book.
